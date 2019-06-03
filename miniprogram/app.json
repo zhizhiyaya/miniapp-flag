@@ -8,7 +8,8 @@
         "pages/deployFunctions/deployFunctions",
         "pages/chooseLib/chooseLib",
         "pages/openapi/openapi",
-        "pages/index-fake"
+        "pages/index-fake",
+        "pages/index-fake/indexFake"
     ],
     "window": {
         "backgroundColor": "#F6F6F6",
